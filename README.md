@@ -19,19 +19,19 @@ In this competition, your goal is to build a machine learning model that is able
 * Programming language: Python v3.
 * IDE: Jupyter-lab
 * List of model algorithms used in this case study:
-  * Logistic regression
-  * Decision tree
-  * Random forest
-  * Adaboost
-  * Gradient boost
-  * XGBoosting
+  * _Logistic regression_
+  * _Decision tree_
+  * _Random forest_
+  * _Adaboost_
+  * _Gradient boost_
+  * _XGBoosting_
 
 ## List of files uploaded
-* Telco churn prediction v2.ipynb: source code
-* Submission.csv: the result of final model
-* train (1).csv: data used for model training
-* test (1).csv: data used for model testing
-* solution (1).csv: actual label for test (1).csv
+* _Telco churn prediction v2.ipynb_: source code
+* _Submission.csv_: the result of final model
+* _train (1).csv_: data used for model training
+* _test (1).csv_: data used for model testing
+* _solution (1).csv_: actual label for test (1).csv
 
 ## Contact
 * Duc Le - norton0704@gmail.com
