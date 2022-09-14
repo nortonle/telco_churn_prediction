@@ -27,7 +27,7 @@ In this competition, your goal is to build a machine learning model that is able
   * _XGBoosting_
 
 ## List of files uploaded
-* _Telco churn prediction v2.ipynb_: source code
+* _Telco_churn_prediction_v2.ipynb_: source code
 * _Submission.csv_: the result of final model
 * _train (1).csv_: data used for model training
 * _test (1).csv_: data used for model testing
